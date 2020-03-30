@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Aplikasi RestApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivaldocantona/RestApi.git"
+  },
+  "keywords": [
+    "Rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "RIvaldoCantona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rivaldocantona/RestApi/issues"
+  },
+  "homepage": "https://github.com/rivaldocantona/RestApi#readme"
+}
